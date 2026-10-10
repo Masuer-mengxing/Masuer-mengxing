@@ -1,8 +1,7 @@
 # Hi, I'm Masuer Abdulloeva (mengxing)
 
 - Application Security Engineer @ Veriton Labs · OSCP
-- Web / API / Active Directory penetration testing
-- Bug bounty hunter on HackerOne & Bugcrowd as **@mengxing**
+- Web / API / Active Directory penetration testing · vulnerability research & responsible disclosure
 - Co-organizer of OWASP Dushanbe meetup · captain of CTF team **Zarnisor**
 - 🔗 **Portfolio & CVE table: https://masuer-mengxing.github.io**
 
@@ -17,6 +16,5 @@
 
 - Site: https://masuer-mengxing.github.io
 - LinkedIn: https://www.linkedin.com/in/mengxing
-- HackerOne: https://hackerone.com/mengxing
 
 *Disclosures are for defensive and educational purposes. All testing is done against locally hosted instances.*
