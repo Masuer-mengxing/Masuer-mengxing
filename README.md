@@ -15,6 +15,6 @@
 ## Find me
 
 - Site: https://masuer-mengxing.github.io
-- LinkedIn: https://www.linkedin.com/in/mengxing
+- LinkedIn: https://www.linkedin.com/in/masuer-mengxing
 
 *Disclosures are for defensive and educational purposes. All testing is done against locally hosted instances.*
