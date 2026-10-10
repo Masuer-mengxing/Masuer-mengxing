@@ -4,6 +4,7 @@
 - Web / API / Active Directory penetration testing
 - Bug bounty hunter on HackerOne & Bugcrowd as **@mengxing**
 - Co-organizer of OWASP Dushanbe meetup · captain of CTF team **Zarnisor**
+- 🔗 **Portfolio & CVE table: https://masuer-mengxing.github.io**
 
 ## Recent work
 
@@ -14,8 +15,8 @@
 
 ## Find me
 
+- Site: https://masuer-mengxing.github.io
 - LinkedIn: https://www.linkedin.com/in/mengxing
-- Blog: https://mengxing.gitlab.io
 - HackerOne: https://hackerone.com/mengxing
 
 *Disclosures are for defensive and educational purposes. All testing is done against locally hosted instances.*
